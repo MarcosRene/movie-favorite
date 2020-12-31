@@ -4,4 +4,4 @@
 
 ### Api
 
-[x] [Theme Movie Database] (https://www.themoviedb.org/)
+- [The Movie Database](https://www.themoviedb.org/)
